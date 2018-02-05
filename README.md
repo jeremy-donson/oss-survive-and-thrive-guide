@@ -86,7 +86,7 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 * [git](pages/git-basics.md)
 * [python3](pages/python3-basics.md)  
 
-- can do, and how they work, we shall address our valid concerns **IN FULL**.
+- can do for us, and how they work, we shall address our valid concerns **IN FULL**.
 
 * WE WILL NOT speak to how to do anything wrong, often referred to giving us enough rope to hang ourselves.
 
@@ -136,7 +136,13 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 ---
 
-III.  3.  We opened a terminal and got stuck on the command-line, which is admittedly cryptic and unforgiving.
+PROBLEM: We opened a terminal and got stuck on the command-line, which is admittedly cryptic and unforgiving.
+
+CORRECTION: 
+
+CORRECTION #2: 
+
+PREVENTION: 
 
 ---
 
