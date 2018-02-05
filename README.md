@@ -38,20 +38,21 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 ---
 
 - [New & Legacy Systems Running Mac OSX](https://www.apple.com/macos/high-sierra/)  
-![osx logo](images/mac-osx-logo.png)  
+![osx logo](images/mac-osx-logo.png =250x)  
+ 
 [Mac OSX Support Info](pages/osx-support.md)
 
 ---
 
 - All Flavors of [Linux](https://www.howtogeek.com/191207/10-of-the-most-popular-linux-distributions-compared/)  
-![linux logos](images/linux-distros-top.jpg)  
-![linux logos](images/linux-distros-bottom.jpg)  
+![linux logos](images/linux-distros-top.jpg =250x))  
+![linux logos](images/linux-distros-bottom.jpg=250x))  
 [Linux Support Info](pages/linux-support.md)
 
 ---
 
 - And Even [Windows](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)  
-![win logos](images/win-logos.png)  
+![win logos](images/win-logos.png =250x)  
 [Windows Support Info](pages/win-support.md)
 
 - NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
@@ -183,6 +184,5 @@ $ free -m
 
 ---
 
-After reading this [FAQ](pages.faq.md),  
-bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
+After reading this [FAQ](pages.faq.md), bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
 [Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
