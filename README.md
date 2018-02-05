@@ -35,6 +35,8 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 ![google logo](images/google-logo.jpeg)  
 [Chromebook Support Info](pages/chromium-support.md)
 
+- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
+
 ---
 
 - [New & Legacy Systems Running Mac OSX](https://www.apple.com/macos/high-sierra/)  
@@ -43,16 +45,25 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 
 [Mac OSX Support Info](pages/osx-support.md)
 
+- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
+
 ---
 
 - All Flavors of [Linux](https://www.howtogeek.com/191207/10-of-the-most-popular-linux-distributions-compared/)  
-![linux logos](images/linux-distros-top.jpg)  
-![linux logos](images/linux-distros-bottom.jpg)  
+<img src="images/images/linux-distros-top.jpg" width="775" height="150"></img>  
+
+<img src="images/images/linux-distros-bottom.jpg" width="775" height="150"></img>  
+
 [Linux Support Info](pages/linux-support.md)
+
+- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
 
 ---
 
 - And Even [Windows](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)  
+
+<img src="images/images/linux-distros-bottom.jpg" width="300" height="150"></img>  
+
 ![win logos](images/win-logos.png)  
 [Windows Support Info](pages/win-support.md)
 
