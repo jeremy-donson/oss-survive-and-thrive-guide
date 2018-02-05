@@ -38,21 +38,21 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 ---
 
 - [New & Legacy Systems Running Mac OSX](https://www.apple.com/macos/high-sierra/)  
-![osx logo](images/mac-osx-logo.png?v=4&s=200)
- 
+![osx logo](images/mac-osx-logo.png?v=4&s=200)  
+<img src="images/mac-osx-logo.png" width="150" height="174">  
 [Mac OSX Support Info](pages/osx-support.md)
 
 ---
 
 - All Flavors of [Linux](https://www.howtogeek.com/191207/10-of-the-most-popular-linux-distributions-compared/)  
-![linux logos](images/linux-distros-top.jpg?v=4&s=200)  
-![linux logos](images/linux-distros-bottom.jpg?v=4&s=200)  
+![linux logos](images/linux-distros-top.jpg)  
+![linux logos](images/linux-distros-bottom.jpg)  
 [Linux Support Info](pages/linux-support.md)
 
 ---
 
 - And Even [Windows](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)  
-![win logos](images/win-logos.png?v=4&s=200)  
+![win logos](images/win-logos.png)  
 [Windows Support Info](pages/win-support.md)
 
 - NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
