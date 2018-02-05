@@ -50,9 +50,9 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 ---
 
 - All Flavors of [Linux](https://www.howtogeek.com/191207/10-of-the-most-popular-linux-distributions-compared/)  
-<img src="images/images/linux-distros-top.jpg" width="775" height="150"></img>  
+<img src="images/linux-distros-top.jpg" width="775" height="150"></img>  
 
-<img src="images/images/linux-distros-bottom.jpg" width="775" height="150"></img>  
+<img src="images/linux-distros-bottom.jpg" width="775" height="150"></img>  
 
 [Linux Support Info](pages/linux-support.md)
 
@@ -62,9 +62,8 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 
 - And Even [Windows](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)  
 
-<img src="images/images/linux-distros-bottom.jpg" width="300" height="150"></img>  
+<img src="images/images/win-logos.png" width="300" height="150"></img>  
 
-![win logos](images/win-logos.png)  
 [Windows Support Info](pages/win-support.md)
 
 - NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
