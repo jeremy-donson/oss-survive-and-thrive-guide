@@ -182,11 +182,11 @@ $ free -m
 ---
 
 ## Enhancements
-- Resize header images.
-- Have beginners across systems test-drive this README doc.
-- Spin off linked subdocs per operating system.
-- Provide scripts to automate these tasks.
-- Translate this doc into other languages.
+- [x]: Resize header images.
+- [ ]: Have beginners across systems test-drive this README doc.
+- [ ]: Spin off linked subdocs per operating system.
+- [ ]: Provide scripts to automate these tasks.
+- [ ]: Translate this doc into other languages.
 
 ---
 
