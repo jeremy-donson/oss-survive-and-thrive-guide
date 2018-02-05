@@ -8,7 +8,7 @@
 
 - Date Created: Feb 5, 2018
 
-- After reading [this faq](pages.faq.md), [BRING ANY AND ALL QUESTIONS HERE](https://www.facebook.com/groups/BigDataProcessing)
+- After reading this [FAQ](pages.faq.md), you are welcome to bring any and all questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
 
 - NOTES FOR THE NEOPHYTE:
 
@@ -183,5 +183,6 @@ $ free -m
 
 ---
 
-[BRING ANY QUESTIONS HERE](https://www.facebook.com/groups/BigDataProcessing)
-[Author](https://github.com/jeremy-donson/)
+After reading this [FAQ](pages.faq.md),  
+bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
+[Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
