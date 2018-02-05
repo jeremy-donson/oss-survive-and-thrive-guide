@@ -38,8 +38,9 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 ---
 
 - [New & Legacy Systems Running Mac OSX](https://www.apple.com/macos/high-sierra/)  
-![osx logo](images/mac-osx-logo.png?v=4&s=200)  
-<img src="images/mac-osx-logo.png" width="150" height="174">  
+
+<img src="images/mac-osx-logo.png" width="150" height="174"></img>  
+
 [Mac OSX Support Info](pages/osx-support.md)
 
 ---
