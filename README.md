@@ -62,7 +62,7 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 
 - And Even [Windows](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)  
 
-<img src="images/images/win-logos.png" width="300" height="150"></img>  
+<img src="images/win-logos.png" width="300" height="150"></img>  
 
 [Windows Support Info](pages/win-support.md)
 
