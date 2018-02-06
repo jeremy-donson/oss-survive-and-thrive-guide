@@ -1,24 +1,5 @@
 ## Open Source Software Survival Essentials For Thriving, Foreseeably
 
-## README Heading
-
-- READ THIS ENTIRE DOC FIRST!!!
-
-- [Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
-
-- Date Created: Feb 5, 2018
-
-- After reading this [FAQ](pages/faq.md), you are welcome to bring any and all questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
-
-- NOTES FOR THE NEOPHYTE:
-
-1. Provided all precautions are taken as instructed,  
-the likelihood of doing any damage to hardware or software from this recipe is nil.
-
-2. Total costs of all tasks below = $0.
-
----
-
 ## Table of Contents
 
 - [Systems Supported](#systems-supported)
@@ -26,6 +7,10 @@ the likelihood of doing any damage to hardware or software from this recipe is n
 - [We Have Three Tasks To Consider-Plan-Execute](#we-have-three-tasks-to-consider-plan-execute)
 - [Enhancements](#enhancements)
 - [How To Contribute](#how-to-contribute)
+
+- Read entire doc first.
+- After reading this [FAQ](pages/faq.md),  
+bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
 
 ---
 
@@ -99,107 +84,50 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 ## Confronting and Resolving Fundamental User Concerns
 
-### There Are Three Major Valid Concerns
+1. [Running ChromeOS on a Chromebook]()
 
-1. We entered admin mode and damaged the chromebook operating system in some way.
+2. [Running OS X on a Mac]()
 
-2. We erased personal data that we need.
+3. [Running Linux]()
 
-3. We opened up a terminal window and got stuck on the command-line.
-
----
-
-- PROBLEM: We entered admin mode and damaged the chromebook operating system in some way.
-
-- CORRECTION:  [Restore the operating system](https://support.google.com/chromebook/answer/1080595?hl=en&ref_topic=3418733).  
-
-- PREVENTION:  Only use admin mode when necessary, and exit admin mode when no longer needed. 
-
-- PREVENTION #2:  Keep your system plugged in to avoid annoying hassles during admin-access tasks.
-
-- FOR EMPHASIS: All computer users must know how to...
-
-1. Securely backup and restore our personal account data.
-
-2. Restore and update our computer operating system.
-
-3. Install new applications and update them.
-
+4. [Running Windows]()
 
 ---
 
-- PROBLEM: We erased personal data that we need.
+## Three Tasks To Consider-Plan-Execute
 
-- CORRECTION: Backup ALL of our local personal account data prior to doing ANY admin-access tasks.
+1. Install Missing Package Manager
 
-- PREVENTION: We ought to be [backing up our personal data to gdrive](https://www.laptopmag.com/articles/get-100gb-free-google-drive-space-chromebook).
+2. Install Git Using Missing Package Manager
 
----
-
-PROBLEM: We opened a terminal and got stuck on the command-line, which is admittedly cryptic and unforgiving.
-
-CORRECTION: 
-
-CORRECTION #2: 
-
-PREVENTION: 
-
----
-
-## We Have Three Tasks To Consider-Plan-Execute
-
-1. Install package manager "chromebrew" onto our system: https://github.com/skycocker/chromebrew
-
-- NOTE: Mac OSX user would use Homebrew, The 'Missing Package Manager':  http://brew.sh
-
-- NOTE: Windows users would use Scoop, The 'Missing Package Manager':  http://scoop.sh
-
-2. Use chromebrew package manager to install tools which we can then execute from the command-line.
-
-- This is no different from installing an app, except that these tools are all run from the command-line.
-
-[Chromebooks Default Shell Is Named crosh](https://www.howtogeek.com/170648/10-commands-included-in-chrome-oss-hidden-crosh-shell/)
-
-- The bash shell is the linux standard, so we would [prefer to run the bash shell instead of crosh](http://chromeos-cr48.blogspot.com/2010/12/make-ctrlaltt-go-straight-to-bash.html).
-
-3. Using chromebrew, the 'Missing Package Manager' install git and python3 locally:
-```
-$ chromebrew install git python3
-```
-
-- The likelihood of this doing any damage to hardware or software is nil.  The costs are $0.
-
-- Checking available local storage space both before and after installation is wise:
-```
-$ df -h
-```
-
-- Checking available memory is also wise:
-```
-$ free -m
-```
-
-* Since those are two read-only commands, they therefore pose no threat at all, ever.
-
-* Only write commands pose ANY potential threats to our systems.
-
-- REMINDER: All of this can be uninstalled should we wish to "back out".
+3. Install Python3 Using Missing Package Manager
 
 ---
 
 ## Enhancements
 - [x]: Resize header images.
-- [ ]: Have beginners across systems test-drive this README doc.
 - [ ]: Spin off linked subdocs per operating system.
+- [ ]: Have beginners across systems test-drive this README doc.
 - [ ]: Provide scripts to automate these tasks.
 - [ ]: Translate this doc into other languages.
 
 ---
 
 ## How To Contribute
-- Join the support group listed below and assist with answering questions.
+- Join the [support group](https://www.facebook.com/groups/BigDataProcessing) listed below and assist with answering questions.
+
+- Learn To Use:
+
+1. Git to version our work.
+2. Markdown to create, edit and format readme docs like this one.
+- MathHeads: Note that markdown can support math symbols: A<sup>123</sup> A<sub>123</sub>
+3. Github.com to distribute and share our work.
+
+
+
+
 
 ---
-
 After reading this [FAQ](pages/faq.md), bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
 [Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
+- Date Created: Feb 5, 2018
