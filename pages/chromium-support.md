@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+- [Basic Use of Computer Systems](#basic-use-of-computer-systems)
 - [Three Tasks To Consider-Plan-Execute](#three-tasks-to-consider-plan-execute)
 - [Three Valid Concerns](#three-valid-concerns)
 

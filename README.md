@@ -84,13 +84,13 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 ## Confronting and Resolving Fundamental User Concerns
 
-1. [Running ChromeOS on a Chromebook]()
+1. [Running ChromeOS on a Chromebook](pages/chromium-support.md)
 
-2. [Running OS X on a Mac]()
+2. [Running OS X on a Mac](pages/osx-support.md)
 
-3. [Running Linux]()
+3. [Running Linux](pages/linux-support.md)
 
-4. [Running Windows]()
+4. [Running Windows](pages/win-support.md)
 
 ---
 
@@ -106,7 +106,11 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 ## Enhancements
 - [x]: Resize header images.
-- [ ]: Spin off linked subdocs per operating system.
+- [x]: Spin off linked subdocs per operating system.
+  - [ ]: Chromium
+  - [ ]: OSX
+  - [ ]: Linux
+  - [ ]: Windows
 - [ ]: Have beginners across systems test-drive this README doc.
 - [ ]: Provide scripts to automate these tasks.
 - [ ]: Translate this doc into other languages.
