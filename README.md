@@ -103,12 +103,13 @@ starting with the most severe outcomes, and will work our way to increasingly le
 - [x]: Spin off linked subdocs per operating system.
   - [x]: Chromium
   - [x]: OSX
-  - [x]: Linux
+  - [ ]: Linux
   - [x]: Windows
+  - [ ]: faq
   - [ ]: Are all of those operating system support pages polished?
 - [ ]: Have beginners across systems test-drive this README doc.
 - [ ]: Provide scripts to automate these tasks.
-
+- [ ]: Add dev support across languages page.
 ---
 
 ## How To Contribute
