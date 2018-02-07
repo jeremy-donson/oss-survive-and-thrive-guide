@@ -4,7 +4,7 @@
 
 - [Mac OSX](https://www.apple.com/macos/high-sierra/)
 
-![osx logo](../images/mac-osx-logo.jpg)
+![osx logo](../images/mac-osx-logo.png)
 
 ---
 
@@ -74,15 +74,18 @@ $ free -m
 ---
 ## Solutions To Three Valid Concerns
 
-- PROBLEM 1: We opened a terminal, tried something, and got stuck on the command-line, which is admittedly cryptic and unforgiving.
+- PROBLEM 1: 
+We opened up a terminal window and got stuck on the command-line., which is admittedly cryptic and unforgiving.
 
 - PREVENTION: We reference our command-line statements prior to doing anything and discuss them thru chat.
 
-- Thru chat, ask someone with experience about the purpose, the result, the undos and possible threats are to our systems with ANY command-line statement.
+- Thru chat, ask someone with experience about the purpose, the result,  
+the undos and possible threats are to our systems with ANY command-line statement.
 
 - PREVENTION: Use copy-paste and command-line history (arrow-up) to avoid typos.
 
-- CORRECTION: We can always undo what we did, provided we have backups of our data and a way to restore our system.
+- CORRECTION: We can always undo what we did,  
+provided we have backups of our data and a way to restore our system.
 
 ---
 

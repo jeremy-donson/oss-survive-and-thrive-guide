@@ -87,7 +87,7 @@ $ free -m
 
 - PROBLEM 2: We erased personal data that we need.
 
-- PREVENTION: We ought to be [backing up our personal data to gdrive, which is free with gmail, which is also free](https://support.google.com/drive/answer/2375123).
+- PREVENTION: We ought to be [backing up our personal data to gdrive, available via gmail, both of which are free](https://support.google.com/drive/answer/2375123).
 
 - CORRECTION: Backup ALL of our local personal account data prior to doing ANY admin-access tasks.
 
@@ -105,4 +105,3 @@ $ free -m
 
 After reading this [FAQ](pages/faq.md), you are welcome to bring any and all questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
 [Return To Main README](../README.md)
-
