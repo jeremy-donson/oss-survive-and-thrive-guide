@@ -109,7 +109,7 @@ starting with the most severe outcomes, and will work our way to increasingly le
   - [ ] faq
   - [ ] Are all of those operating system support pages polished?
 - [ ] Provide scripts to automate these tasks.
-- [ ][ ] Add periodic update, upgrade, cleanup.
+- [ ] [ ] Add periodic update, upgrade, cleanup.
 - [ ] Fix the basic commands per os.
 - [ ] Have beginners across systems test-drive this README doc.
 - [ ] Add dev support across languages page.
