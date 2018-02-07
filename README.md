@@ -3,14 +3,15 @@
 ## Table of Contents
 
 - [Systems Supported](#systems-supported)
-- [Confronting & Resolving Fundamental User Concerns](#confronting-and-resolving-fundamental-user-concerns)
+- [Confronting & Resolving Fundamental User Concerns](#confronting-and-resolving-fundamental-user-concerns-per-os)
 - [We Have Three Tasks To Consider-Plan-Execute](#we-have-three-tasks-to-consider-plan-execute)
 - [Enhancements](#enhancements)
 - [How To Contribute](#how-to-contribute)
 
-- Read entire doc first.
+- Read entire doc first.  Make some notes and do a little reading.
 - After reading this [FAQ](pages/faq.md),  
 bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  
+- The likelihood of doing any damage to hardware or software from this recipe is nil.ß The costs are $0.  
 
 ---
 
@@ -20,8 +21,6 @@ bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
 ![google logo](images/google-logo.jpeg)  
 [Chromebook Support Info](pages/chromium-support.md)
 
-- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
-
 ---
 
 - [New & Legacy Systems Running Mac OSX](https://www.apple.com/macos/high-sierra/)  
@@ -29,8 +28,6 @@ bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
 <img src="images/mac-osx-logo.png" width="150" height="174"></img>  
 
 [Mac OSX Support Info](pages/osx-support.md)
-
-- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
 
 ---
 
@@ -41,8 +38,6 @@ bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
 
 [Linux Support Info](pages/linux-support.md)
 
-- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
-
 ---
 
 - And Even [Windows](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)  
@@ -51,13 +46,11 @@ bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
 
 [Windows Support Info](pages/win-support.md)
 
-- NOTE: The likelihood of doing any damage to hardware or software from this recipe is nil.  The costs are $0.
-
 ---
 
 ## UNIVERSAL SYSTEM MANAGEMENT RULES OF SURVIVAL
 
-- All computer users must know how to...
+- All self-reliant computer users must know how to...
 
 1. Securely backup and restore our personal account data.
 
@@ -73,7 +66,8 @@ bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)
 
 - can do for us, and how they work, we shall address our valid concerns **IN FULL**.
 
-* WE WILL NOT speak to how to do anything wrong, often referred to giving us enough rope to hang ourselves.
+* WE WILL NOT speak to how to do anything wrong,  
+often referred to giving us enough rope to hang ourselves.
 
 * WE WILL speak to how to both correct and prevent such outcomes,  
 starting with the most severe outcomes, and will work our way to increasingly less severe.
@@ -82,7 +76,7 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 ---
 
-## Confronting and Resolving Fundamental User Concerns
+## Confronting and Resolving Fundamental User Concerns Per OS
 
 1. [Running ChromeOS on a Chromebook](pages/chromium-support.md)
 
@@ -107,26 +101,28 @@ starting with the most severe outcomes, and will work our way to increasingly le
 ## Enhancements
 - [x]: Resize header images.
 - [x]: Spin off linked subdocs per operating system.
-  - [ ]: Chromium
-  - [ ]: OSX
-  - [ ]: Linux
-  - [ ]: Windows
+  - [x]: Chromium
+  - [x]: OSX
+  - [x]: Linux
+  - [x]: Windows
+  - [ ]: Are all of those operating system support pages polished?
 - [ ]: Have beginners across systems test-drive this README doc.
 - [ ]: Provide scripts to automate these tasks.
-- [ ]: Translate this doc into other languages.
 
 ---
 
 ## How To Contribute
-- Join the [support group](https://www.facebook.com/groups/BigDataProcessing) listed below and assist with answering questions.
+
+- Join the [live support group](https://www.facebook.com/groups/BigDataProcessing) and assist with answering questions.
 
 - Learn To Use:
 
 1. Git to version our work.
-2. Markdown to create, edit and format readme docs like this one.
-- MathHeads: Note that markdown can support math symbols: A<sup>123</sup>, A<sub>123</sub>, O(n<sup>2</sup>)
-3. Github.com to distribute and share our work.
 
+2. Github.com to distribute and share our work.
+
+3. Markdown to create, edit and format readme docs like this one.
+- MathHeads: Note that markdown can support math symbols: A<sup>123</sup>, A<sub>123</sub>, O(n<sup>2</sup>)
 
 ---
 After reading this [FAQ](pages/faq.md), bring any questions [HERE](https://www.facebook.com/groups/BigDataProcessing)  

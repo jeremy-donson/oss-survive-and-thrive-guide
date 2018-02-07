@@ -1,9 +1,11 @@
-## Open Source Software Survival Essentials For Thriving Foreseeably
+# Open Source Software Survival Essentials For Thriving Foreseeably
 
 ## Git And Github Basics
 
 ## Table of Contents
 
+
+- [How To Contribute](#how-to-contribute)
 - [How To Contribute](#how-to-contribute)
 
 ---

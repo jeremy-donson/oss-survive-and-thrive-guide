@@ -30,12 +30,7 @@
 
 ## Three Tasks To Consider-Plan-Execute
 
-1. Install package manager "chromebrew" onto our system: https://github.com/skycocker/chromebrew
-
-- NOTE: Mac OSX user would use Homebrew, The 'Missing Package Manager':  http://brew.sh
-
-- NOTE: Windows users would use Scoop, The 'Missing Package Manager':  http://scoop.sh
-
+1. [Install package manager "chromebrew" onto our system](https://github.com/skycocker/chromebrew)
 
 2. Use chromebrew package manager to install tools which we can then execute from the command-line.
 
@@ -48,6 +43,8 @@
 3. Using chromebrew, the 'Missing Package Manager' install git and python3 locally:
 ```
 $ chromebrew install git python3
+$ git version
+$ python3 --version
 ```
 
 - The likelihood of this doing any damage to hardware or software is nil.  The costs are $0.
@@ -80,11 +77,15 @@ $ free -m
 
 ## Three Valid Concerns
 
-PROBLEM 3: We opened a terminal and got stuck on the command-line, which is admittedly cryptic and unforgiving.
+- PROBLEM 1: We opened a terminal, tried something, and got stuck on the command-line, which is admittedly cryptic and unforgiving.
 
-PREVENTION: We reference our statements commands before 
+- PREVENTION: We reference our command-line statements prior to doing anything and discuss them thru chat.
 
-CORRECTION: We reference 
+- Thru chat, ask someone with experience about the purpose, the result, the undos and possible threats are to our systems with ANY command-line statement.
+
+- PREVENTION: Use copy-paste and command-line history (arrow-up) to avoid typos.
+
+- CORRECTION: We can always undo what we did, provided we have backups of our data and a way to restore our system.
 
 ---
 
@@ -96,7 +97,7 @@ CORRECTION: We reference
 
 ---
 
-- PROBLEM 1: We entered admin mode and damaged the chromebook operating system in some way.
+- PROBLEM 3: We entered admin mode and damaged the chromebook operating system in some way.
 
 - CORRECTION:  [Restore the operating system](https://support.google.com/chromebook/answer/1080595?hl=en&ref_topic=3418733).  
 
