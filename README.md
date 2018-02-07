@@ -124,11 +124,8 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 1. Git to version our work.
 2. Markdown to create, edit and format readme docs like this one.
-- MathHeads: Note that markdown can support math symbols: A<sup>123</sup> A<sub>123</sub>
+- MathHeads: Note that markdown can support math symbols: A<sup>123</sup>, A<sub>123</sub>, O(n<sup>2</sup>)
 3. Github.com to distribute and share our work.
-
-
-
 
 
 ---
