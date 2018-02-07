@@ -100,19 +100,19 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 ## Enhancements
 
-- [x]: Resize header images.
-- [x]: Spin off linked subdocs per operating system.
-  - [x]: Chromium
-  - [x]: OSX
-  - [x]: Windows
-  - [ ]: Linux
-  - [ ]: faq
-  - [ ]: Are all of those operating system support pages polished?
-- [ ]: Fix the basic commands per os.
-- [ ]: Have beginners across systems test-drive this README doc.
-- [ ]: Provide scripts to automate these tasks.
-- [ ]: Add dev support across languages page.
-- [ ]: Add list of urbanspectra public projects to readme footer.
+- [x] Resize header images.
+- [x] Spin off linked subdocs per operating system.
+  - [x] Chromium
+  - [x] OSX
+  - [x] Windows
+  - [ ] Linux
+  - [ ] faq
+  - [ ] Are all of those operating system support pages polished?
+- [ ] Fix the basic commands per os.
+- [ ] Have beginners across systems test-drive this README doc.
+- [ ] Provide scripts to automate these tasks.
+- [ ] Add dev support across languages page.
+- [ ] Add list of urbanspectra public projects to readme footer.
 
 ---
 
