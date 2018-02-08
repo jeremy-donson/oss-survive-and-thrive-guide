@@ -37,7 +37,7 @@
 - js:                   A language that is great for single page web apps, can be executed in browser client-side.  Can also be server-side.
 - node.js:              Server-side js framework.
 - css3:                 Language to format web pages for responsive layouts.
-- webpack:              
+- [webpack](https://blog.andrewray.me/webpack-when-to-use-and-why/):              Supports local dev convenience and remote production architecture.
 - react:                A VERY popular js framework for web apps.
 - express:              A VERY popular js framework for web services.
 - mern:                 A web dev stack of tools:  mongodb, express, react, node.
@@ -70,7 +70,7 @@
 - [Career Builder](https://www.careerbuilder.com/)
 - [Indeed](https://www.Indeed.com/)
 - [Monster](https://www.Monster.com/)
-- [LinkedIn](https://www.LinkedIn.com/)
+- [LinkedIn](https://www.linkedin.com/jobs/)
 - [Zip Recruiter](https://www.ziprecruiter.com/)
 - [GlassDoor](https://www.glassdoor.com/)
 
