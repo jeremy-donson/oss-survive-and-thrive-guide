@@ -96,6 +96,8 @@ starting with the most severe outcomes, and will work our way to increasingly le
 
 3. Install Python3 Using Missing Package Manager
 
+
+
 ---
 
 ## Enhancements
@@ -106,8 +108,11 @@ starting with the most severe outcomes, and will work our way to increasingly le
   - [x] OSX
   - [x] Windows
   - [ ] Linux
-  - [ ] faq
   - [ ] Are all of those operating system support pages polished?
+- [ ] bash basics page
+- [ ] Git and github basics page
+- [ ] python3 basics page
+- [ ] faq
 - [ ] Provide scripts to automate these tasks.
 - [ ] Add periodic update, upgrade, cleanup.
 - [ ] Fix the basic commands per os.
