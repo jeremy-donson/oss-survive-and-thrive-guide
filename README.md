@@ -1,4 +1,4 @@
-## Open Source Software Survival Essentials For Thriving, Foreseeably
+# Open Source Software Survival Essentials For Thriving, Foreseeably
 
 ## Table of Contents
 
